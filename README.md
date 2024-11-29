@@ -8,6 +8,7 @@ This repository contains my solutions to the Advent of Code challenges, spanning
 - `aoc_2021/` - Solutions for Advent of Code 2021.
 - `aoc_2022/` - Solutions for Advent of Code 2022.
 - `aoc_2023/` - Solutions for Advent of Code 2023.
+- `aoc_2024/` - Solutions for Advent of Code 2024.
 
 ## How to Use
 
