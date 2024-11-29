@@ -1,0 +1,92 @@
+# General OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.env
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.project
+
+# C / C++ specific
+*.o
+*.obj
+*.out
+*.exe
+*.so
+*.dll
+*.dylib
+
+# Rust specific
+target/
+
+# Go specific
+*.exe
+*.out
+*.a
+
+# JavaScript/TypeScript
+*.js
+*.tsbuildinfo
+*.map
+
+# Ruby specific
+*.gem
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# IDE specific
+.idea/
+*.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Data files
+*.csv
+*.tsv
+*.sqlite
+*.sqlite3
+
+# Advent of Code specific exclusions (potential input/output files)
+input.txt
+output.txt
+
+# General backup files
+*~
+*.backup
+*.old
+*.orig
+
+# Day-specific files
+*.log
+.DS_Store
+target/
+*.cache
+
+# User-specific environment configs
+.env
+*.env
+
