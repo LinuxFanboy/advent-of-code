@@ -1,7 +1,7 @@
 # Advent of Code 2024
 
-![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2023-brightgreen.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/LinuxFanboy/advent-of-code-2024)
+![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2024-brightgreen.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/LinuxFanboy/advent-of-code)
 
 This repository contains my solutions for Advent of Code 2024. Advent of Code is an annual coding challenge where participants solve programming puzzles and challenges in December.
 
