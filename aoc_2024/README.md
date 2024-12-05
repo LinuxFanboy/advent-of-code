@@ -9,19 +9,20 @@ This repository contains my solutions for Advent of Code 2024. Advent of Code is
 
 I'll be using a variety of programming languages throughout the event. Here's the list of languages I plan to use:
 
-- [ ] Python
+- [x] Python
 - [ ] JavaScript
 - [ ] Java
 - [ ] C#
 - [ ] C++
 - [ ] Ruby
-- [ ] Go
+- [x] Go
 - [ ] Rust
 - [ ] Bash
 - [ ] R
 - [ ] Typescript
-- [ ] Zig
-- [ ] Powershell
+- [x] Zig
+- [x] Powershell
+- [ ] Swift
 
 Feel free to check out my solutions in your favorite programming language!
 
